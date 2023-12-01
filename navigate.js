@@ -4,7 +4,6 @@ import {NavigationContainer} from "@react-navigation/native"
 import Main from "./components/mane";
 import TemperatureConverter from "./components/ConvertTemp"
 import Metre from "./components/Metr"
-import Angle from "./components/Angle"
 import Currency from "./components/Currency"
 import Weight from "./components/Weight"
 import Speed from "./components/Speed"

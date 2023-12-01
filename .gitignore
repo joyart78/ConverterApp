@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-components/Angle.js
+
 # Expo
 .expo/
 dist/
